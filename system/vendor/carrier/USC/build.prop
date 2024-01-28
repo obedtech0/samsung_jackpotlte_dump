@@ -1,0 +1,8 @@
+ro.ril.ecclist=911,#911,*911
+ro.gsm.data_retry_config=max_retries=infinite,0,0,60000,120000,480000,900000
+ro.telephony.default_network=10
+ro.com.android.dataroaming=true
+ro.cdma.home.operator.numeric=311580
+ro.cdma.home.operator.alpha=U.S. Cellular
+ril.subscription.types=NV,RUIM
+telephony.lteOnCdmaDevice=1
