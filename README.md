@@ -1,0 +1,19 @@
+## jackpotltexx-user 7.1.1 NMF26X A530FXXU1AQL2 release-keys
+- Manufacturer: samsung
+- Platform: exynos5
+- Codename: jackpotlte
+- Brand: samsung
+- Flavor: jackpotltexx-user
+- Release Version: 7.1.1
+- Kernel Version: 
+- Id: NMF26X
+- Incremental: A530FXXU1AQL2
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 480
+- Fingerprint: samsung/jackpotltexx/jackpotlte:7.1.1/NMF26X/A530FXXU1AQL2:user/release-keys
+- OTA version: 
+- Branch: jackpotltexx-user-7.1.1-NMF26X-A530FXXU1AQL2-release-keys
+- Repo: samsung_jackpotlte_dump
